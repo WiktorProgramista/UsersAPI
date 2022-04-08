@@ -1,0 +1,15 @@
+Application
+
+Stworzyæ model urzytkownika
+
+Stworzyæ klase do pol¹czenia baz¹ danych
+
+Stworzyæ klasê która pobiera informacje o po³¹czeniu z baz¹ danych
+
+Stworzyæ klase do zarz¹dzania tabelami urzytkowników
+
+RestAPI - wstrzykn¹æ narzêdzie do kontenera
+
+Podpi¹æ swagera
+
+Update uzytkownikow
